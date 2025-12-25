@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RobertCodeGit
-- 👀 I’m interested in Physics, Mathematics, Teaching, Pyhton, Data Science, R
-- 🌱 I’m currently learning Git, Python, R
-- 💞️ I’m looking to collaborate on Moodle
+- 👀 I’m interested in Physics, Mathematics, Teaching, Python, Data Science
+- 🌱 I’m currently learning Git, Python, 
 - 📫 How to reach me *here*
 
 <!---
